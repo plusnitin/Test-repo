@@ -1,3 +1,3 @@
 # Test-repo
 
-Creating test repo
+Repo created for testing the git commands
